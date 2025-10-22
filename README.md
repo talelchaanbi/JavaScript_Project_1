@@ -23,7 +23,7 @@ In this checkpoint, the goal was to practice JavaScript problem-solving skills b
 JavaScript_Project_1/
 │
 ├── README.md
-└── Talel Chaanbi — Edabit.html # Proof of Edabit profile and XP
+└── Talel Chaanbi — Edabit.pdf  # Proof (PDF capture of Edabit profile and XP)
 
 ---
 
@@ -31,7 +31,7 @@ JavaScript_Project_1/
 1. Created an account on [Edabit](https://edabit.com)  
 2. Solved multiple JavaScript challenges  
 3. Accumulated over **275 XP**  
-4. Exported and attached proof of progress (`Talel Chaanbi — Edabit.html`)  
+4. Exported and attached proof of progress (`Talel Chaanbi — Edabit.pdf`)  
 5. Uploaded everything to this GitHub repository  
 
 ---
